@@ -36,40 +36,40 @@ Bot = Client(
 )
 
 START_TEXT = """**Hello {} 😌
-I am small media or file to telegra.ph link uploader bot.**
+𝙄 𝘼𝙈 𝙎𝙈𝘼𝙇𝙇 𝙈𝙀𝘿𝙄𝘼 𝙊𝙍 𝙁𝙄𝙇𝙀 𝙏𝙊 𝙏𝙀𝙇𝙀𝙂𝙍𝘼.𝙋𝙃 𝙇𝙄𝙉𝙆 𝙐𝙋𝙇𝙊𝘿𝙀𝙍 𝘽𝙊𝙏😊..**
 
->> `I can convert under 5MB photo or video to telegraph link.`
+>> `𝐈 𝐜𝐚𝐧 𝐜𝐨𝐧𝐯𝐞𝐫𝐭 𝐔𝐧𝐝𝐞𝐫 5𝐌𝐁 𝐩𝐡𝐨𝐭𝐨 𝐎𝐫 𝐕𝐢𝐝𝐞𝐨 𝐓𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐩𝐡 𝐥𝐢𝐧𝐤...`
 
-Made by @Mo_Tech_YT"""
+Made by @AD_BOTZ_2"""
 
-HELP_TEXT = """**Hey, Follow these steps:**
+HELP_TEXT = """**𝙃𝙚𝙮,𝙁𝙤𝙡𝙡𝙤𝙬 𝙏𝙝𝙚𝙨𝙚 𝙎𝙩𝙖𝙥𝙨😊:**
 
-➠ Just give me a media under 5MB
-➠ Then I will download it
-➠ I will then upload it to the telegra.ph link
+➠ 𝗝𝘂𝘀𝘁 𝗚𝗶𝘃𝗲 𝗠𝗲 𝗮 𝗠𝗲𝗱𝗶𝗮 𝗨𝗻𝗱𝗲𝗿 5𝗠𝗕🥰
+➠ 𝗧𝗵𝗲𝗻 𝗜 𝘄𝗶𝗹𝗹 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗜𝘁🥰
+➠ 𝗜 𝘄𝗶𝗹𝗹 𝗧𝗵𝗲𝗻 𝗨𝗽𝗹𝗼𝗮𝗱 𝗜𝘁 𝗧𝗼 𝗧𝗵𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮.𝗽𝗵 𝗟𝗶𝗻𝗸🥰
 
-**Available Commands**
+**😁𝙰𝚟𝚊𝚕𝚒𝚊𝚋𝚕𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜😁**
 
-/start - Checking Bot Online
-/help - For more help
-/about - For more about me
-/status - For bot updates
+/start - 𝙲𝚑𝚎𝚌𝚔𝚒𝚗𝚐 𝙱𝚘𝚝 𝙾𝚗𝚕𝚒𝚗𝚎😇
+/help - 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎 𝙷𝚎𝚕𝚙❤️
+/about - 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎 𝙰𝚋𝚘𝚞𝚝😉
+/status - 𝙵𝚘𝚛 𝙱𝚘𝚝 𝚄𝚙𝚍𝚊𝚝𝚎𝚜⚒️
 
-Made by @Mo_Tech_YT"""
+Made by @AD_BOTZ_2"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [Fayas](https://github.com/LuciferMoringStarDevil)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
+👨‍💻 **Editor :** [Muhammed](https://github.com/LuciferMoringStarDevil)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/Mo_Tech_YT)
+📢 **Channel :** [Mo Tech Channel](https://telegram.me/AD_BOTZ_2)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
+👥 **Group :** [Mo Tech Group](https://telegram.me/AD_BOTZ)
 
-🌐 **Source :** [👉 Click here](https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2)
+🌐 **Source :** [👉 Click here](https://github.com/LuciferMoringStarDevil/Telegraph-Uploader-Bot-V2)
 
 📝 **Language :** [Python3](https://python.org)
 
@@ -81,28 +81,27 @@ FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for us
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🎬 For Movie 🎬', url='https://t.me/ADMOVEIAD'),
         ],[
-        InlineKeyboardButton('⚙ Help', callback_data='help'),
-        InlineKeyboardButton('About 🔰', callback_data='about'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
+        InlineKeyboardButton('⚙ Help ⚙', callback_data='help'),
+        InlineKeyboardButton('🔰 About 🔰', callback_data='about'),
+        InlineKeyboardButton('✖️ Close ✖️', callback_data='close')
         ]]
     )
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('⚒️ More Botz ⚒️', url='https://t.me/AD_BOTZ_2'),
         ],[
-        InlineKeyboardButton('🏘 Home', callback_data='home'),
-        InlineKeyboardButton('About 🔰', callback_data='about'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
+        InlineKeyboardButton('🏘 Home 🏘', callback_data='home'),
+        InlineKeyboardButton('🔰 About 🔰', callback_data='about'),
+        InlineKeyboardButton('✖️ Close ✖️', callback_data='close')
         ]]
     )
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
-        ],[
+        InlineKeyboardButton('💠 Sapport Group 💠', url='https://t.me/AD_BOTZ'),      ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('Help ⚙', callback_data='help'),
         InlineKeyboardButton('Close ✖️', callback_data='close')
@@ -234,7 +233,7 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @MT_Botz",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @AD_BOTZ",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -243,10 +242,10 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
                 [  
-                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")
+                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://t.me/AD_BOTZ")
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50')
+                    InlineKeyboardButton('🎬 For Moviea 🎬', url='https://t.me/ADMOVEIAD')
                 ]
             ]
         )
