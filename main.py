@@ -38,7 +38,7 @@ Bot = Client(
 START_TEXT = """**Hello {} 😌
 𝙄 𝘼𝙈 𝙎𝙈𝘼𝙇𝙇 𝙈𝙀𝘿𝙄𝘼 𝙊𝙍 𝙁𝙄𝙇𝙀 𝙏𝙊 𝙏𝙀𝙇𝙀𝙂𝙍𝘼.𝙋𝙃 𝙇𝙄𝙉𝙆 𝙐𝙋𝙇𝙊𝘿𝙀𝙍 𝘽𝙊𝙏😊..**
 
->> `𝐈 𝐜𝐚𝐧 𝐜𝐨𝐧𝐯𝐞𝐫𝐭 𝐔𝐧𝐝𝐞𝐫 5𝐌𝐁 𝐩𝐡𝐨𝐭𝐨 𝐎𝐫 𝐕𝐢𝐝𝐞𝐨 𝐓𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐩𝐡 𝐥𝐢𝐧𝐤...`
+>> `𝙄 𝘾𝘼𝙉 𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙐𝙉𝘿𝙀𝙍 5𝙈𝘽 𝙋𝙃𝙊𝙏𝙊 𝙊𝙍 𝙑𝙀𝘿𝙄𝙊 𝙏𝙊 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙋𝙃 𝙇𝙄𝙉𝙆...`
 
 Made by @AD_BOTZ_2"""
 
@@ -61,13 +61,13 @@ ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/LuciferMoringStarDevil)
+👨‍💻 **Developer :** [Lucifer](https://github.com/LuciferMoringStarDevil)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/LuciferMoringStarDevil)
+👨‍💻 **Editor :** [Lucifer](https://github.com/LuciferMoringStarDevil)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/AD_BOTZ_2)
+📢 **Channel :** [AD BOTZ CHANNEL](https://telegram.me/AD_BOTZ_2)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/AD_BOTZ)
+👥 **Group :** [AD BOTZ GROUP](https://telegram.me/AD_BOTZ)
 
 🌐 **Source :** [👉 Click here](https://github.com/LuciferMoringStarDevil/Telegraph-Uploader-Bot-V2)
 
