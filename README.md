@@ -1,6 +1,14 @@
 # Telegraph-Uploader-Bot-V2
 
-An advanced simple small media or file to telegra.ph link uploader bot.
+# Modified Version Of [Telegraph-Uploader-Bot-V2](https://github.com/LuciferMoringStarDevil/Telegraph-Uploader-Bot-V2)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Telegra+ph+Uploader+bot+v2;click+deploy+to+heroku+button;By+Lucifer+Devil+:)](https://git.io/typing-svg)
+
+</a>  
+</p>
+<img src="https://telegra.ph/file/598154bbfb787022ee065.jpg"><br>
+
+## Example Bot [Imdb Bot](https://t.me/Ma_autofilterbot)
 
 ---
 
